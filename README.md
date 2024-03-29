@@ -2,14 +2,14 @@
 The objective of this task is to introduce you to MLflow for experiment tracking, model management, and reproducibility in machine learning projects for the Sentiment Analysis Project.
 
 ### Task
-> Integrate MLflow into your existing machine learning projects.
-> Train machine learning models while logging relevant information with MLflow.
-> Demonstrate how to log parameters, metrics, and artifacts using MLflow tracking APIs.
-> Customizing MLflow UI with run names.
-> Demonstrate metric plots.
-> Demonstrate hyperparameter plots.
-> Demonstrate how to register models and manage by tagging them.
-> Build a Prefect Workflow and Auto Schedule it. Show the Prefect Dashboard with relevant outputs.
+* Integrate MLflow into your existing machine learning projects.
+* Train machine learning models while logging relevant information with MLflow.
+* Demonstrate how to log parameters, metrics, and artifacts using MLflow tracking APIs.
+* Customizing MLflow UI with run names.
+* Demonstrate metric plots.
+* Demonstrate hyperparameter plots.
+* Demonstrate how to register models and manage by tagging them.
+* Build a Prefect Workflow and Auto Schedule it. Show the Prefect Dashboard with relevant outputs.
 
 
 # Flipkart-Reviews-Sentiment-Analysis-Experiment-tracking-and-Orchestration
